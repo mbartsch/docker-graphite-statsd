@@ -18,7 +18,7 @@ docker run -d\
  -p 2023-2024:2023-2024\
  -p 8125:8125/udp\
  -p 8126:8126\
- hopsoft/graphite-statsd
+ mbartsch/docker-graphite-statsd
 ```
 
 This starts a Docker container named: **graphite**
